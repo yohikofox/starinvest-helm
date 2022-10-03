@@ -4,7 +4,8 @@
 
 replicaCount: 1
 
-namespace: starinvest
+namespace:
+  name: starinvest
 
 image:
   repository: rg.fr-par.scw.cloud/thetribe/starinvest-web
