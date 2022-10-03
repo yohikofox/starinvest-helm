@@ -3,7 +3,17 @@ entries:
   web:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-03T17:08:11.3467188+02:00"
+    created: "2022-10-03T17:12:02.7601563+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 3a8af66d66c21d27a74912a9ae99b0fc6b92d82b420755c4748534197e27dabd
+    name: web
+    type: application
+    urls:
+    - https://yohikofox.github.io/starinvest-helm/web-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-03T17:12:02.7595578+02:00"
     description: A Helm chart for Kubernetes
     digest: efbbafe1bc6779baa851f16211739b3c71ad15b47ea44124c2d7c9567524637e
     name: web
@@ -13,7 +23,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-03T17:08:11.3461585+02:00"
+    created: "2022-10-03T17:12:02.7595578+02:00"
     description: A Helm chart for Kubernetes
     digest: 351afbdf778b066fa49650fc0dd3c43749d5705153cb7e1034ea8ba540e02db3
     name: web
@@ -23,7 +33,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-03T17:08:11.3460825+02:00"
+    created: "2022-10-03T17:12:02.7590147+02:00"
     description: A Helm chart for Kubernetes
     digest: 82e24721c69c949b4e6307a2ac80259a5f456dc81df7662c2a281b578fc39cd1
     name: web
@@ -31,4 +41,4 @@ entries:
     urls:
     - https://yohikofox.github.io/starinvest-helm/web-0.1.0.tgz
     version: 0.1.0
-generated: "2022-10-03T17:08:11.3444779+02:00"
+generated: "2022-10-03T17:12:02.7584938+02:00"
