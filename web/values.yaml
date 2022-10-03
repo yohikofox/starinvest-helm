@@ -4,13 +4,20 @@
 
 replicaCount: 1
 
-image:
-  repository: nginx
-  pullPolicy: IfNotPresent
-  # Overrides the image tag whose default is the chart appVersion.
-  tag: ""
+namespace: starinvest
 
-imagePullSecrets: []
+image:
+  repository: rg.fr-par.scw.cloud/thetribe/starinvest-web
+  pullPolicy: Always
+  # Overrides the image tag whose default is the chart appVersion.
+  tag: "0.0.5"
+
+container:
+  port: 3000
+
+imagePullSecrets: 
+  - name: registry-secret
+
 nameOverride: ""
 fullnameOverride: ""
 
