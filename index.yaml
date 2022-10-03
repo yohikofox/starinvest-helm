@@ -3,7 +3,17 @@ entries:
   web:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-03T17:19:19.5364377+02:00"
+    created: "2022-10-03T17:24:36.9333032+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 943346336bc7ad3e0ce83f05d58a01a2e4a3551bb0e6f34d60e109500da81185
+    name: web
+    type: application
+    urls:
+    - https://yohikofox.github.io/starinvest-helm/web-0.1.5.tgz
+    version: 0.1.5
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-03T17:24:36.9327648+02:00"
     description: A Helm chart for Kubernetes
     digest: 7c6862f75279b38f6e6c478e12191de92e125fa3effb278e19178d527e1de96d
     name: web
@@ -13,7 +23,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-03T17:19:19.5358435+02:00"
+    created: "2022-10-03T17:24:36.932257+02:00"
     description: A Helm chart for Kubernetes
     digest: 3a8af66d66c21d27a74912a9ae99b0fc6b92d82b420755c4748534197e27dabd
     name: web
@@ -23,7 +33,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-03T17:19:19.5352223+02:00"
+    created: "2022-10-03T17:24:36.9316522+02:00"
     description: A Helm chart for Kubernetes
     digest: efbbafe1bc6779baa851f16211739b3c71ad15b47ea44124c2d7c9567524637e
     name: web
@@ -33,7 +43,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-03T17:19:19.5346301+02:00"
+    created: "2022-10-03T17:24:36.9316522+02:00"
     description: A Helm chart for Kubernetes
     digest: 351afbdf778b066fa49650fc0dd3c43749d5705153cb7e1034ea8ba540e02db3
     name: web
@@ -43,7 +53,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-03T17:19:19.5345039+02:00"
+    created: "2022-10-03T17:24:36.9310045+02:00"
     description: A Helm chart for Kubernetes
     digest: 82e24721c69c949b4e6307a2ac80259a5f456dc81df7662c2a281b578fc39cd1
     name: web
@@ -51,4 +61,4 @@ entries:
     urls:
     - https://yohikofox.github.io/starinvest-helm/web-0.1.0.tgz
     version: 0.1.0
-generated: "2022-10-03T17:19:19.5338903+02:00"
+generated: "2022-10-03T17:24:36.9304038+02:00"
