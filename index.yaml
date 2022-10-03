@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  web:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-03T16:54:05.8019989+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 82e24721c69c949b4e6307a2ac80259a5f456dc81df7662c2a281b578fc39cd1
+    name: web
+    type: application
+    urls:
+    - https://yohikofox.github.io/starinvest-helm/web-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-03T16:54:05.8009543+02:00"
